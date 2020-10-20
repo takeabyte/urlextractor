@@ -1,4 +1,4 @@
-####Code by LJ@2015  ###########################################
+####Code by takeabyte@2015  ###########################################
 ####Extracts links from a webpage and saves them as txt file ###
 
 from bs4 import BeautifulSoup
